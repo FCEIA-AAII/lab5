@@ -11,3 +11,7 @@ https://public.roboflow.com/classification/rock-paper-scissors/
 ## Lab 5 B
 
 [![Lab 5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FCEIA-AAII/lab5/blob/master/lab5b.ipynb)
+
+## Lab 5 C
+
+[![Lab 5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FCEIA-AAII/lab5/blob/master/lab5c.ipynb)
